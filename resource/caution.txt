@@ -1,0 +1,5 @@
+Pay Attention:
+1. This Program is used to identify the SCI papers. For example, classify whether a paper belongs to College Control Science and Engineering, Zhejiang University, etc.
+2. The papers'list must be saved in XLS format, and the sheet must be named "Sheet1".
+3. First two columns are reserved to record the identification results. The first column must be named "SignatureUnit", and the second column must be named "CorrespondenceUnit"
+4. The column heading of all author addresses is "C1" and the column heading of correspondence author addresses is "RP".
